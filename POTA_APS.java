@@ -1,9 +1,6 @@
 package aps;
 /*
-Julio Cesar Menezes Carvalho   Ra: 20999569
-Gustavo Gonzaga Viana   Ra: 20951318
-José Eduardo Pedralino da Silva    Ra: 20934383
-Lucas Babolim de Carvalho   Ra: 20996446
+
 
 */
 import java.util.Random;
